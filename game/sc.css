@@ -1,0 +1,74 @@
+
+
+#screen{
+    background: #16dfa69f;
+}
+table{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    position: static;
+overflow: hidden;
+    bottom: 20vh;
+    color: rgb(2, 49, 75);
+    
+    overflow-y: hidden;
+
+
+}
+table{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    position: static;
+overflow: hidden;
+    bottom: 20vh;
+    color: rgb(2, 49, 75);
+    
+    overflow-y: hidden;
+
+
+}
+
+
+th{
+    
+    text-align: center;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    
+    
+}
+td{
+    display: table-cell;
+    
+    text-align: center;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    writing-mode: sideways-lr;
+    writing-mode: horizontal-bt;
+    word-wrap: normal;
+}
+
+
+table *{
+    border-width: 3px;
+    border-style: solid;
+    border-color: #9007d0;
+    writing-mode:horizontal-tb;
+    scroll-behavior: smooth;
+
+
+}
+
+
+.inp{
+   position: sticky;
+    bottom: 0;
+    background-color: rgb(139, 236, 128);
+    padding: 2%;
+    border: 2%;
+    margin: 0.5%;
+
+    
+}
